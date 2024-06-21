@@ -8,14 +8,12 @@ This self-driving car simulation project is based on a tutorial series that cove
 
 ## Generation wise data
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <img src="image.png" width="370" height="353" alt="Terminal output">
-  </div>
-  <div style="flex: 1;">
-    <img src="simulation.gif"  alt="Simulation GIF">
-  </div>
-</div>
+| Simulation GIF | Terminal output |
+|-----|---|
+| <img src="simulation.gif" width="480" height="272" alt="Simulation GIF"> | <img src="image.png" width="370" height="354" alt="Terminal output"> |
+
+
+
 
 ## Tutorial
 
